@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bacariq.CcmService", "Bacariq.CcmService\Bacariq.CcmService.csproj", "{35997803-1509-4EEF-B3A6-8F9A6DADDA21}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8A6C3A4A-496A-460F-A57E-9F0D6285DD23} = {8A6C3A4A-496A-460F-A57E-9F0D6285DD23}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bacariq.CcmDal", "..\Bacariq.CcmDal\Bacariq.CcmDal.csproj", "{8A6C3A4A-496A-460F-A57E-9F0D6285DD23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35997803-1509-4EEF-B3A6-8F9A6DADDA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35997803-1509-4EEF-B3A6-8F9A6DADDA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35997803-1509-4EEF-B3A6-8F9A6DADDA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35997803-1509-4EEF-B3A6-8F9A6DADDA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6C3A4A-496A-460F-A57E-9F0D6285DD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6C3A4A-496A-460F-A57E-9F0D6285DD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6C3A4A-496A-460F-A57E-9F0D6285DD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6C3A4A-496A-460F-A57E-9F0D6285DD23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2C8480-7F68-4D22-B497-23F1BA18BD27}
+	EndGlobalSection
+EndGlobal

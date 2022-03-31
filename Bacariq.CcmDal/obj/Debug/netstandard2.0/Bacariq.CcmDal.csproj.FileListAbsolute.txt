@@ -1,0 +1,9 @@
+C:\Bacariq\Bacariq.CcmDal\bin\Debug\netstandard2.0\Bacariq.CcmDal.deps.json
+C:\Bacariq\Bacariq.CcmDal\bin\Debug\netstandard2.0\Bacariq.CcmDal.dll
+C:\Bacariq\Bacariq.CcmDal\bin\Debug\netstandard2.0\Bacariq.CcmDal.pdb
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.csprojAssemblyReference.cache
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.AssemblyInfoInputs.cache
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.AssemblyInfo.cs
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.dll
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.pdb
+C:\Bacariq\Bacariq.CcmDal\obj\Debug\netstandard2.0\Bacariq.CcmDal.csproj.CoreCompileInputs.cache

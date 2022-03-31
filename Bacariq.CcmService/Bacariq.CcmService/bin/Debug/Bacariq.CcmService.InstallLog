@@ -1,0 +1,28 @@
+﻿Désinstallation de l'assembly 'C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.InstallLog
+   assemblypath = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe
+Installation de l'assembly 'C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.InstallLog
+   assemblypath = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe
+Validation de l'assembly 'C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.InstallLog
+   assemblypath = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe
+Installation de l'assembly 'C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.InstallLog
+   assemblypath = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe
+Installation du service BacariqCmm en cours...
+Le service BacariqCmm a été installé avec succès.
+Création d'une source EventLog BacariqCmm dans le journal Application...
+Validation de l'assembly 'C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.InstallLog
+   assemblypath = C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe

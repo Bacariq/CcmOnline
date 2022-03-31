@@ -1,0 +1,14 @@
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.csprojAssemblyReference.cache
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.csproj.CoreCompileInputs.cache
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.ProjectInstaller.resources
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.csproj.GenerateResource.cache
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe.config
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.exe
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmService.pdb
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmDal.dll
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Newtonsoft.Json.dll
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Bacariq.CcmDal.pdb
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\bin\Debug\Newtonsoft.Json.xml
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.csproj.CopyComplete
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.exe
+C:\Bacariq\Bacariq.CcmService\Bacariq.CcmService\obj\Debug\Bacariq.CcmService.pdb

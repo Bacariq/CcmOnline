@@ -1,0 +1,18 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 26B8-AC75
+
+ R‚pertoire de C:\AtelierWpf\Bacariq.Lawyer\Ressource\Convert
+
+16-11-16  00:00         1.120.768 tx24.dll
+10-10-16  03:10           318.976 tx24_css.dll
+03-11-16  07:10           875.520 tx24_doc.dll
+03-11-16  03:10         1.441.280 tx24_dox.dll
+10-10-16  05:10         1.085.440 tx24_htm.dll
+03-11-16  08:00           288.256 tx24_ic.dll
+24-10-16  00:39           327.680 tx24_obj.dll
+03-11-16  03:10           758.272 tx24_pdf.dll
+03-11-16  07:10           754.688 tx24_rtf.dll
+08-11-16  07:00           345.088 tx24_tls.dll
+01-02-16  02:15            54.272 tx24_wnd.dll
+              11 fichier(s)        7.370.240 octets
+               0 R‚p(s)  787.454.930.944 octets libres

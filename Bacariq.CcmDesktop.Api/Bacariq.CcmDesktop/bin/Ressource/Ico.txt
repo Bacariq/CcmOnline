@@ -1,0 +1,73 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 26B8-AC75
+
+ R‚pertoire de C:\AtelierWpf\Bacariq.Lawyer\Ressource
+
+15-11-19  10:16    <DIR>          .
+15-11-19  10:16    <DIR>          ..
+16-09-19  21:25            82.854 bcp.jpg
+25-10-19  09:57             4.166 cur_appointment.cur
+15-11-19  10:16                 0 Ico.txt
+28-08-19  09:43             1.973 ico_add.png
+23-08-19  16:05            10.654 ico_addcontact.png
+13-09-19  18:43             9.390 ico_agenda.png
+24-09-19  09:16             4.784 ico_arrowdown - Copie.png
+30-09-19  11:08             4.452 ico_arrowleft.png
+30-09-19  11:08             4.640 ico_arrowright.png
+24-09-19  09:17            10.719 ico_arrowup.png
+09-09-19  15:51            15.818 ico_at.png
+11-11-19  15:20            12.056 ico_attached.png
+11-11-19  15:05             9.775 ico_attachedadd.png
+23-08-19  16:05            15.722 ico_contact.png
+11-09-19  15:50            10.449 ico_dashboard.png
+30-08-19  09:23             6.702 ico_delete.png
+13-09-19  18:44             7.567 ico_dossier.png
+23-08-19  15:28             3.964 ico_eid.png
+09-09-19  15:57            19.693 ico_fax.png
+19-07-19  09:50             8.911 ico_folder.png
+09-09-19  15:51             4.150 ico_gsm.png
+23-10-19  09:06             6.192 ico_img.png
+11-09-19  15:48             7.363 ico_info.png
+11-09-19  09:38             5.582 ico_interrogation.png
+11-11-19  15:35            37.610 ico_lettre.png
+19-08-19  10:24             5.931 ico_listing.png
+23-08-19  16:04            11.796 ico_loupe.png
+30-08-19  09:23             9.704 ico_mailreceive.png
+27-08-19  18:10            10.716 ico_mailsend.png
+26-09-19  15:52            13.203 ico_messagerie.png
+11-10-19  13:11             3.909 ico_new.png
+23-08-19  15:28             3.964 ico_opencontact.png
+23-10-19  09:06             7.567 ico_pdf.png
+09-09-19  15:50             9.637 ico_phone.png
+23-10-19  09:05             5.423 ico_print.png
+28-08-19  09:42             2.411 ico_sauver.png
+23-10-19  09:03            12.160 ico_Scan.png
+02-08-19  12:21            16.266 ico_setting.png
+29-08-19  08:35             5.027 ico_update.png
+15-07-19  15:40            33.528 LogoDesignV6.png
+15-11-19  10:07               234 Rtf_AlignCenter.png
+15-11-19  10:07               209 Rtf_AlignLeft.png
+15-11-19  10:07               209 Rtf_AlignRight.png
+15-11-19  10:07               856 Rtf_Backcolor.png
+15-11-19  10:07               304 Rtf_Bold.png
+15-11-19  10:07               344 Rtf_BulletList.png
+15-11-19  10:07               309 Rtf_Copy.png
+15-11-19  10:07               648 Rtf_Cut.png
+15-11-19  10:07               353 Rtf_Indent.png
+15-11-19  10:07               351 Rtf_IndentRemove.png
+15-11-19  10:07               223 Rtf_Italic.png
+15-11-19  10:07               357 Rtf_NumbersList.png
+15-11-19  10:07             3.228 Rtf_Open-48x48.png
+15-11-19  10:07               688 Rtf_Open.png
+15-11-19  10:07               605 Rtf_Paste.png
+15-11-19  10:07               731 Rtf_Print.png
+15-11-19  10:07               625 Rtf_Redo.png
+15-11-19  10:07               269 Rtf_Strikeout.png
+15-11-19  10:07               422 Rtf_Subscript.png
+15-11-19  10:07               421 Rtf_Superscript.png
+15-11-19  10:07               548 Rtf_Textcolor.png
+15-11-19  10:07               273 Rtf_Underline.png
+15-11-19  10:07               631 Rtf_Undo.png
+15-11-19  10:07            29.696 Thumbs.db
+              64 fichier(s)          498.962 octets
+               2 R‚p(s)  756.420.382.720 octets libres
